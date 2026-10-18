@@ -26,7 +26,7 @@ Website: https://kasparovabi.github.io/gecit/
 ## Download
 
 - **Mac:** `Gecit.zip` from the [latest release](https://github.com/kasparovabi/gecit/releases/latest). The app is signed and notarized by Apple.
-- **Windows:** the Microsoft Store version is coming soon, and it will be the recommended way to install. Until then, use `gecit.exe` from the [latest release](https://github.com/kasparovabi/gecit/releases/latest). It is not code-signed yet, so SmartScreen shows "Windows protected your PC" the first time: click "More info", then "Run anyway". On PCs with Smart App Control turned on, Windows will not open it at all; use the Store version there.
+- **Windows:** [Gecit in the Microsoft Store](https://apps.microsoft.com/detail/9NSSWCBJXD8S) is the recommended way to install; the Store keeps it up to date. On PCs without the Store, use `gecit.exe` from the [latest release](https://github.com/kasparovabi/gecit/releases/latest). It is not code-signed yet, so SmartScreen shows "Windows protected your PC" the first time: click "More info", then "Run anyway". On PCs with Smart App Control turned on, Windows will not open it at all; use the Store version there.
 
 ## Setup
 
@@ -48,7 +48,7 @@ Keep both computers on the same version. When one side is newer, its menu remind
 
 ## Gecit Pro
 
-Keyboard, mouse, clipboard and media keys are free. Dragging files between Windows and the Mac needs Gecit Pro, a one-time purchase of $9.99 through Lemon Squeezy. A license works on up to two Macs at a time. Buy it from the [website](https://kasparovabi.github.io/gecit/#buy) or from "File drag: Gecit Pro ($9.99)…" in the Mac menu, then paste the key from your receipt into "Enter license key…".
+Keyboard, mouse, clipboard and media keys are free. Dragging files between Windows and the Mac needs Gecit Pro, a one-time purchase of $9.99 through Lemon Squeezy. A license works on up to two Macs at a time. Buy it from the [website](https://kasparovabi.github.io/gecit/#buy) or from "File drag: Gecit Pro ($9.99)…" in the Mac menu, then paste the key from your receipt into "Enter license key…". Launch offer until 17 November 2026: 50% off with the code LAUNCH50, which the website's Buy button applies for you.
 
 If Gecit Pro does not work for you, email within 14 days of purchase for a full refund.
 
