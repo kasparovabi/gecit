@@ -48,7 +48,7 @@ Keep both computers on the same version. When one side is newer, its menu remind
 
 ## Gecit Pro
 
-Keyboard, mouse, clipboard and media keys are free. Dragging files between Windows and the Mac needs Gecit Pro, a one-time purchase of $9.99 through Lemon Squeezy. A license works on up to two Macs at a time. Buy it from the [website](https://kasparovabi.github.io/gecit/#buy) or from "File drag: Gecit Pro ($9.99)…" in the Mac menu, then paste the key from your receipt into "Enter license key…". Launch offer until 17 November 2026: 50% off with the code LAUNCH50, which the website's Buy button applies for you.
+Keyboard, mouse, clipboard and media keys are free. Dragging files between Windows and the Mac needs Gecit Pro, a one-time purchase of $9.99 through Lemon Squeezy. A license works on up to two Macs at a time. Buy it on the [website](https://kasparovabi.github.io/gecit/#buy) ("File drag: Get Gecit Pro…" in the Mac menu opens the same page), then paste the key from your receipt into "Enter license key…". Launch offer until 17 November 2026: 50% off with the code LAUNCH50, which the website's Buy button applies for you.
 
 If Gecit Pro does not work for you, email within 14 days of purchase for a full refund.
 
